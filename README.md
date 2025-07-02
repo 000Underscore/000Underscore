@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut 👋
 
 Je suis débutant dans le développement web et je poursuis ma montée en compétences dans ce domaine. J’ai commencé par une formation polyvalente en numérique (web, design, data, cybersécurité) et j’ai décidé de me concentrer sur ce qui me motive le plus : coder et créer des interfaces utiles et efficaces.
 
