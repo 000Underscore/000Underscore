@@ -1,11 +1,46 @@
-## Salut 👋
+<h1 align="center">Salut, moi c’est Victor 👋</h1>
 
-Je suis débutant dans le développement web et je poursuis ma montée en compétences dans ce domaine. J’ai commencé par une formation polyvalente en numérique (web, design, data, cybersécurité) et j’ai décidé de me concentrer sur ce qui me motive le plus : coder et créer des interfaces utiles et efficaces.
+<p align="center">
+  💻 Développeur Web en devenir • 🎮 Fan de Cyberpunk & Fantasy • 🌱 Toujours en apprentissage
+</p>
 
-## 💻 Ce que je fais actuellement :
-🌱 Je me forme aux bases du Développement Web (HTML, CSS et JavaScript)  
-🧠 J'apprends en réalisant des projets simples  
-🎯 Objectif : devenir développeur front-end ou full-stack  
+---
 
-## 🎮 Fun fact :
-Je suis un grand fan de jeux vidéo, d’univers dark fantasy et de cyberpunk. Si je ne code pas, je suis probablement en train de jouer à Cyberpunk 2077 ou à un bon RPG.
+### 🚀 À propos de moi
+
+Je suis passionné par le **développement web** et je poursuis ma montée en compétences dans ce domaine.  
+Après une formation polyvalente dans le numérique, je me concentre désormais sur ce qui me motive le plus : **coder, créer et apprendre**.  
+
+---
+
+### 🎯 Objectifs actuels
+
+- 🌱 Suivre une formation en **Développement Web & Web Mobile**  
+- 🔧 Améliorer mes compétences en **HTML / CSS / JavaScript / Git**  
+- 🚀 Progresser sur **React**, **Node.js** et les bases du **back-end**
+
+---
+
+### 🛠️ Langages et outils
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🎮 Fun fact
+
+Quand je ne code pas, je suis probablement sur un RPG bien dark ou futuriste (📍 *Night City*, ça vous parle ?).  
+Fan de **Cyberpunk 2077**, de **jeux compétitifs** et de **Dark Fantasy**.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=000Underscore&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
