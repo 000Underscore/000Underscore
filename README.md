@@ -8,7 +8,7 @@
 
 ### 🚀 À propos de moi
 
-Je suis passionné par le **développement web** et je poursuis ma montée en compétences dans ce domaine.  
+Je suis débutant en **développement web** et je poursuis ma montée en compétences dans ce domaine.  
 Après une formation polyvalente dans le numérique, je me concentre désormais sur ce qui me motive le plus : **coder, créer et apprendre**.  
 
 ---
