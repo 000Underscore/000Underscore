@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c’est Victor 👋</h1>
 
 <p align="center">
-  💻 Développeur Web en devenir • 🎮 Fan de Cyberpunk & Fantasy • 🌱 Toujours en apprentissage
+  💻 Développeur Web en devenir • 🎮 Fan de Cyberpunk & Dark Fantasy • 🌱 Toujours en apprentissage
 </p>
 
 ---
@@ -35,7 +35,7 @@ Après une formation polyvalente dans le numérique, je me concentre désormais 
 ### 🎮 Fun fact
 
 Quand je ne code pas, je suis probablement sur un RPG bien dark ou futuriste (📍 *Night City*, ça vous parle ?).  
-Fan de **Cyberpunk 2077**, de **jeux compétitifs** et de **Dark Fantasy**.
+Fan de **Cyberpunk 2077**, d'**Escape from Tarkov** et de **Dark Fantasy**.
 
 ---
 
