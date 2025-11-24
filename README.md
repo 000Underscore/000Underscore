@@ -17,7 +17,7 @@ Après une formation polyvalente dans le numérique, je me concentre désormais 
 
 - 🌱 Trouver une entreprise pour continuer ma formation en **Développement Web & Web Mobile** a l'**ESGI** (Anciennement CEFIM)  
 - 🔧 Améliorer mes compétences en **HTML / CSS / JavaScript**  
-- 🚀 Apprendre **React**, **Node.js** et les bases du **Python**  
+- 🚀 Apprendre **React** et les bases du **Python**  
 
 ---
 
