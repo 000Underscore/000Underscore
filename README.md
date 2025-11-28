@@ -36,11 +36,3 @@ Après une formation polyvalente dans le numérique, je me concentre désormais 
 
 Quand je ne code pas, je suis probablement sur un RPG bien dark ou futuriste (📍 *Night City*, ça vous parle ?).  
 Fan de **Cyberpunk 2077**, d'**Escape from Tarkov** et de **Dark Fantasy**.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=000Underscore&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
