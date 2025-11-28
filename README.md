@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c’est Victor 👋</h1>
 
 <p align="center">
-  💻 Développeur Web en devenir • 🎮 Fan de Cyberpunk & Dark Fantasy • 🌱 Toujours en apprentissage
+  💻 Développeur Web en devenir
 </p>
 
 ---
@@ -29,10 +29,3 @@ Après une formation polyvalente dans le numérique, je me concentre désormais 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
-
-### 🎮 Fun fact
-
-Quand je ne code pas, je suis probablement sur un RPG bien dark ou futuriste (📍 *Night City*, ça vous parle ?).  
-Fan de **Cyberpunk 2077**, d'**Escape from Tarkov** et de **Dark Fantasy**.
